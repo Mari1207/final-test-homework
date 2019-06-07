@@ -1,0 +1,7 @@
+C:\Projects\Homework final exam\Homework final exam\bin\Debug\Homework final exam.exe.config
+C:\Projects\Homework final exam\Homework final exam\bin\Debug\Homework final exam.exe
+C:\Projects\Homework final exam\Homework final exam\bin\Debug\Homework final exam.pdb
+C:\Projects\Homework final exam\Homework final exam\obj\Debug\Homework final exam.csprojAssemblyReference.cache
+C:\Projects\Homework final exam\Homework final exam\obj\Debug\Homework final exam.csproj.CoreCompileInputs.cache
+C:\Projects\Homework final exam\Homework final exam\obj\Debug\Homework final exam.exe
+C:\Projects\Homework final exam\Homework final exam\obj\Debug\Homework final exam.pdb
